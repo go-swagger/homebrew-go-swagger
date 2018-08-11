@@ -1,9 +1,9 @@
 class GoSwagger < Formula
   desc "Toolkit to work with swagger for golang"
   homepage "https://github.com/go-swagger/go-swagger"
-  url "https://github.com/go-swagger/go-swagger/releases/download/0.15.0/swagger_darwin_amd64"
-  version "0.15.0"
-  sha256 "3011d82c5d29d960d70488557b347e1d3a48fc631be4ae476ce68583bbe04858"
+  url "https://github.com/go-swagger/go-swagger/releases/download/0.16.0/swagger_darwin_amd64"
+  version "0.16.0"
+  sha256 "2d8914469614c72828d0cfdda6b537ae7313e036cbe20546cc7a57fc5a78ec15"
 
   option "with-goswagger", "Names the binary goswagger instead of swagger"
 

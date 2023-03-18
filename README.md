@@ -8,3 +8,9 @@ Homebrew repository to install the swagger command line utility
 brew tap go-swagger/go-swagger
 brew install go-swagger
 ```
+
+# Vefity
+
+```sh
+swagger version
+```
